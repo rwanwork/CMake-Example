@@ -27,6 +27,16 @@ The latest version of this CMake Example can be downloaded from [GitHub](https:/
 If you have any information about bugs, suggestions for the documentation or just have some general comments, feel free to write to the above address.
 
 
+History
+-------
+
+Some users who clearly know more about CMake than I do have offered some comments to what I've done.  While I have not accepted all of their comments (since the aim of this example is slightly [different](http://www.rwanwork.info/sysdocs/cmake/summary-1/)), they are of course more right than wrong.
+
+* [January 25, 2016](http://public.kitware.com/pipermail/cmake/2016-January/062611.html) Tamás Kenéz (See the [refactoring](https://github.com/tamaskenez/cmake-2016-jan-21-shared-lib-exe)).
+
+Thank you for the advice!
+
+
 Copyright and License
 ---------------------
 
