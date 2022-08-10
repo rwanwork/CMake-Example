@@ -14,11 +14,9 @@ In fact, the files in this repository were previously hosted as a tar.gz archive
 About CMake Example
 -------------------
 
-This software was implemented by Raymond Wan while I was at the Hong Kong University of Science and Technology.  My contact details are:
+This software was implemented by Raymond Wan.  My contact details are:
 
-     E-mails:  rwan.work@gmail.com 
-               OR 
-               raymondwan@ust.hk
+     E-mail:  rwan.work@gmail.com 
 
 My homepage is [here](http://www.rwanwork.info/).
 
@@ -41,7 +39,7 @@ Copyright and License
 ---------------------
 
      CMake Example
-     Copyright (C) 2015-2016 by Raymond Wan
+     Copyright (C) 2015-2022 by Raymond Wan
 
 CMake Example is distributed under the terms of the GNU General Public License (GPL, version 3 or later) -- see the file COPYING for details.
 
@@ -55,6 +53,6 @@ This GitHub repository was created from the original tarball on my homepage (whi
 
 
     Raymond Wan
-    January 26, 2016
+    August 10, 2022
 
 
